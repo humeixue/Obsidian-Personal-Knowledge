@@ -1,0 +1,6 @@
+﻿{
+  "BaseUrl": "https://api.deepseek.com/chat/completions",
+  "Model": "deepseek-chat",
+  "Temperature": 0.2,
+  "TimeoutSeconds": 90
+}
